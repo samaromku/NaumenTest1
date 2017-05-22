@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NaumenTest</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+    <string name="computer_name">Computer name</string>
+    <string name="company_name">Company name</string>
+    <string name="description">Description</string>
+    <string name="company">Company</string>
+    <string name="pageId">pageId</string>
+</resources>
